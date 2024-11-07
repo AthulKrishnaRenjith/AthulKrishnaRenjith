@@ -2,9 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence and Machine Learning
 - 🌱 I’m currently learning Tensorflow and Scikit-learn
 - 💞️ I’m looking to collaborate on AI/Ml projects
-- 📫 How to reach me github
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 You can reach me through LinkedIn
 
 <!---
 AthulKrishnaRenjith/AthulKrishnaRenjith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
