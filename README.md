@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @AthulKrishnaRenjith
-- 👀 I’m interested in Artificial Intelligence and Machine Learning
-- 🌱 I’m currently learning Tensorflow and Scikit-learn
-- 💞️ I’m looking to collaborate on AI/Ml projects
-- 📫 You can reach me through LinkedIn
+👋 Hi, I’m Athul Krishna Renjith, a Machine Learning Engineer specializing in reinforcement learning, robotics, and autonomous systems.
+
+🚀 I’m passionate about AI and Machine Learning, with experience in reinforcement learning for gaming, autonomous systems, and predictive maintenance.
+
+📚 Currently honing my skills in TensorFlow and Scikit-learn, alongside expertise in ROS, XGBoost, and deep learning.
+
+💡 Open to collaborations on AI/ML projects, particularly in robotics, reinforcement learning, and autonomous technologies.
+
+📫 Let’s connect on LinkedIn!
 
 <!---
 AthulKrishnaRenjith/AthulKrishnaRenjith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
