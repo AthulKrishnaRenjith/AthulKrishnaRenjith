@@ -2,7 +2,7 @@
 
 📚 Currently honing my skills in TensorFlow and Scikit-learn, alongside expertise in ROS, and deep learning.
 
-💡 Open to collaborations on AI/ML projects, particularly in robotics, reinforcement learning, and autonomous technologies.
+💡 Open to collaborations on AI/ML projects, particularly in robotics and autonomous technologies.
 
 📫 Let’s connect on LinkedIn!
 
