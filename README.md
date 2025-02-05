@@ -1,4 +1,4 @@
-👋 Hi, I’m Athul Krishna Renjith, a Machine Learning Engineer specializing in reinforcement learning, robotics, and autonomous systems.
+👋 Hi, I’m Athul Krishna Renjith, a Machine Learning Engineer with experience building Chatbots and Virtual Assistant as well as robotics and autonomous systems.
 
 📚 Currently honing my skills in TensorFlow and Scikit-learn, alongside expertise in ROS, and deep learning.
 
