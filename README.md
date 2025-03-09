@@ -1,6 +1,6 @@
 👋 Hi, I’m Athul Krishna Renjith, a Machine Learning Engineer with experience building Chatbots and Virtual Assistant as well as in robotics and autonomous systems.
 
-📚 Currently honing my skills in PyTorch, ROS, and deep learning.
+📚 Currently honing my skills in PyTorch, ROS, and Deep Learning.
 
 💡 Open to collaborations on AI/ML projects, particularly in robotics and autonomous technologies.
 
