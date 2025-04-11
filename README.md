@@ -1,6 +1,6 @@
-👋 Hi, I’m Athul Krishna Renjith, a Machine Learning Engineer with experience building Perception systems and Chatbots.
+👋 Hi, I’m Athul Krishna Renjith, a Machine Learning Engineer with experience building Perception systems.
 
-📚 Currently honing my skills in PyTorch, ROS, and Deep Learning.
+📚 Currently honing my skills in PyTorch, ROS and TensorRT.
 
 💡 Open to collaborations on AI/ML projects.
 
