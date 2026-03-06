@@ -32,6 +32,8 @@ Robotics Engineer specializing in real-time perception and embedded autonomy for
 
 <h2 style="font-family: Georgia, serif; color: #E8674F; font-size: 28px;">Featured Projects</h2>
 
+<div align="center">
+
 <table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
 <tr>
 <td style="width: 50%; padding: 10px;">
@@ -74,6 +76,8 @@ Robotics Engineer specializing in real-time perception and embedded autonomy for
 </td>
 </tr>
 </table>
+
+</div>
 
 <h2 style="font-family: Georgia, serif; color: #E8674F; font-size: 28px;">Key Achievements</h2>
 
