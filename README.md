@@ -81,9 +81,44 @@ Robotics Engineer specializing in real-time perception and embedded autonomy for
 
 <h2 style="font-family: Georgia, serif; color: #E8674F; font-size: 28px;">Focus Areas</h2>
 
-<div align="left">
+<div align="center">
 
-**Autonomous Systems** | **Perception** | **RL for Humanoid Locomotion** | **Real-time SLAM & Visual Localization** | **Edge AI Optimization** 
+<table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
+<tr>
+<td style="width: 50%; padding: 15px; vertical-align: top;">
+
+![Autonomous Systems](https://img.shields.io/badge/🤖%20Autonomous%20Systems-E8674F?style=for-the-badge)
+
+</td>
+<td style="width: 50%; padding: 15px; vertical-align: top;">
+
+![Perception](https://img.shields.io/badge/👁️%20Perception-E8674F?style=for-the-badge)
+
+</td>
+</tr>
+<tr>
+<td style="width: 50%; padding: 15px; vertical-align: top;">
+
+![RL Locomotion](https://img.shields.io/badge/🦾%20RL%20for%20Humanoids-E8674F?style=for-the-badge)
+
+</td>
+<td style="width: 50%; padding: 15px; vertical-align: top;">
+
+![SLAM](https://img.shields.io/badge/🗺️%20Visual%20SLAM-E8674F?style=for-the-badge)
+
+</td>
+</tr>
+<tr>
+<td style="width: 50%; padding: 15px; vertical-align: top;">
+
+![Edge AI](https://img.shields.io/badge/⚡%20Edge%20AI-E8674F?style=for-the-badge)
+
+</td>
+<td style="width: 50%; padding: 15px; vertical-align: top;">
+
+</td>
+</tr>
+</table>
 
 </div>
 
