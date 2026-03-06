@@ -1,16 +1,14 @@
 <div align="center">
-  <h1>
-    Athul Krishna Renjith
-  </h1>
-  <h3>Robotics Engineer | Perception Systems | AI & Deep Learning</h3>
+  
+  [![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=100&lines=Welcome+👋;I'm+Athul+Krishna+Renjith;Robotics+Engineer;Building+Intelligent+Perception+Systems)](https://github.com/AthulKrishnaRenjith)
+  
+
   
   <p>
     <a href="https://linkedin.com/in/athulkrishnarenjith"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto:renjith.athul.krishna@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
     <a href="https://github.com/AthulKrishnaRenjith"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   </p>
-
-  <img src="https://komarev.com/ghpvc/?username=AthulKrishnaRenjith&style=for-the-badge&color=00D9FF" alt="Profile views">
 </div>
 
 ---
@@ -19,7 +17,7 @@
 
 I'm a passionate **Robotics Engineer** specializing in building cutting-edge **Perception Systems** and **Kinematic Solutions**. With hands-on experience in computer vision, deep learning, and robotics middleware, I transform complex problems into elegant, functional systems.
 
-> *"Innovation happens at the intersection of robotics, AI, and practical engineering."*
+> *"Qui fortis est, liber est"*
 
 ---
 
