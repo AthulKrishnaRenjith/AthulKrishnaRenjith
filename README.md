@@ -5,7 +5,7 @@
   <h3>Robotics Engineer | Perception Systems | AI & Deep Learning</h3>
   
   <p>
-    <a href="https://linkedin.com/in/athul-krishna-renjith"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://linkedin.com/in/athulkrishnarenjith"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto:renjith.athul.krishna@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
     <a href="https://github.com/AthulKrishnaRenjith"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   </p>
@@ -107,7 +107,7 @@ I'm always interested in collaborating on robotics projects, AI research, and in
 
 <div align="center">
 
-[**Connect on LinkedIn**](https://linkedin.com/in/athul-krishna-renjith) · 
+[**Connect on LinkedIn**](https://linkedin.com/in/athulkrishnarenjith) · 
 [**Explore My Projects**](https://github.com/AthulKrishnaRenjith?tab=repositories) · 
 [**Drop Me an Email**](mailto:renjith.athul.krishna@gmail.com)
 
