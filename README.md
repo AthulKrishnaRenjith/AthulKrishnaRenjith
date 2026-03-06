@@ -11,15 +11,11 @@
   </p>
 </div>
 
----
-
 <h2 style="font-family: Georgia, serif; color: #E8674F; font-size: 28px;">About Me</h2>
 
 Robotics Engineer specializing in real-time perception and embedded autonomy for resource-constrained robotic platforms. I deliver measurable system-level improvements through deterministic latency optimization, performance profiling, and hardware integration.
 
 > *Qui fortis est, liber est*
-
----
 
 <h2 style="font-family: Georgia, serif; color: #E8674F; font-size: 28px;">Core Skills</h2>
 
@@ -34,7 +30,50 @@ Robotics Engineer specializing in real-time perception and embedded autonomy for
 
 </div>
 
----
+<h2 style="font-family: Georgia, serif; color: #E8674F; font-size: 28px;">Featured Projects</h2>
+
+<table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
+<tr>
+<td style="width: 50%; padding: 10px;">
+
+<div style="border: 2px solid #E8674F; border-radius: 8px; padding: 15px 10px; text-align: center; background-color: rgba(232, 103, 79, 0.05); min-height: 60px; display: flex; align-items: center; justify-content: center;">
+
+### [MARVIS](https://github.com/AthulKrishnaRenjith)
+
+</div>
+
+</td>
+<td style="width: 50%; padding: 10px;">
+
+<div style="border: 2px solid #E8674F; border-radius: 8px; padding: 15px 10px; text-align: center; background-color: rgba(232, 103, 79, 0.05); min-height: 60px; display: flex; align-items: center; justify-content: center;">
+
+### [Humanoid Perception](https://github.com/AthulKrishnaRenjith/stride-op3.git)
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td style="width: 50%; padding: 10px;">
+
+<div style="border: 2px solid #E8674F; border-radius: 8px; padding: 15px 10px; text-align: center; background-color: rgba(232, 103, 79, 0.05); min-height: 60px; display: flex; align-items: center; justify-content: center;">
+
+### [Autonomous Racing](https://github.com/AthulKrishnaRenjith/UH-Racing-Yolov9-custom.git)
+
+</div>
+
+</td>
+<td style="width: 50%; padding: 10px;">
+
+<div style="border: 2px solid #E8674F; border-radius: 8px; padding: 15px 10px; text-align: center; background-color: rgba(232, 103, 79, 0.05); min-height: 60px; display: flex; align-items: center; justify-content: center;">
+
+### [Beatmap Generator](https://github.com/AthulKrishnaRenjith/Osu-Beatmap.git)
+
+</div>
+
+</td>
+</tr>
+</table>
 
 <h2 style="font-family: Georgia, serif; color: #E8674F; font-size: 28px;">Key Achievements</h2>
 
@@ -46,19 +85,6 @@ Robotics Engineer specializing in real-time perception and embedded autonomy for
 - **Field Validation**: Deployed full SLAM+navigation stack on autonomous surface vessel (ASV) with 67% mAP and sub-5cm drift in GNSS-denied conditions
 - **Robust Robotics**: Validated systems under dynamic conditions (rain, occlusion, motion blur, lighting variation) with targeted augmentation strategies
 
----
-
-<h2 style="font-family: Georgia, serif; color: #E8674F; font-size: 28px;">Featured Projects</h2>
-
-- **[MARVIS](https://github.com/AthulKrishnaRenjith)** – Real-Time Computer Vision System for Autonomous Maritime Localisation
-
-- **[Humanoid Robot Perception](https://github.com/AthulKrishnaRenjith/stride-op3.git)**
-
-- **[Real-Time Perception for Autonomous Racing](https://github.com/AthulKrishnaRenjith/UH-Racing-Yolov9-custom.git)**
-
-- **[Osu Beatmap Generator](https://github.com/AthulKrishnaRenjith/Osu-Beatmap.git)**
-
----
 
 <h2 style="font-family: Georgia, serif; color: #E8674F; font-size: 28px;\">GitHub & Open Source</h2>
 
@@ -70,8 +96,6 @@ Robotics Engineer specializing in real-time perception and embedded autonomy for
 **[View My Repositories →](https://github.com/AthulKrishnaRenjith?tab=repositories)**
 
 </div>
-
----
 
 <h2 style="font-family: Georgia, serif; color: #E8674F; font-size: 28px;">Let's Connect! 🤝</h2>
 
@@ -85,8 +109,6 @@ I'm always interested in collaborating on robotics projects, AI research, and in
 [**Drop Me an Email**](mailto:renjith.athul.krishna@gmail.com)
 
 </div>
-
----
 
 <div align="center">
   
