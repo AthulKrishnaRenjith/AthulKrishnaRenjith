@@ -79,18 +79,15 @@ Robotics Engineer specializing in real-time perception and embedded autonomy for
 
 </div>
 
-<h2 style="font-family: Georgia, serif; color: #E8674F; font-size: 28px;">Key Achievements</h2>
+<h2 style="font-family: Georgia, serif; color: #E8674F; font-size: 28px;">Focus Areas</h2>
 
-- **SLAM Optimization**: Reduced accumulated trajectory drift by 28% through dynamic feature filtering and structured benchmarking on maritime platforms
-- **Latency Reduction**: Achieved 37% end-to-end perception latency reduction via Nsight profiling and kernel optimization on Jetson AGX Orin
-- **Real-Time Inference**: Deployed 52 FPS YOLOv9 on Jetson AGX Orin using TensorRT FP16 optimization (92% precision, 86% mAP@0.5)
-- **Geo-Localization**: Built satellite image analysis model with 18% accuracy improvement via DINOv3 cross-view matching (85% top-1 accuracy)
-- **Precision Control**: Engineered PID-based motion control achieving 0.5mm repeatable positioning precision on multi-DOF robotic arms
-- **Field Validation**: Deployed full SLAM+navigation stack on autonomous surface vessel (ASV) with 67% mAP and sub-5cm drift in GNSS-denied conditions
-- **Robust Robotics**: Validated systems under dynamic conditions (rain, occlusion, motion blur, lighting variation) with targeted augmentation strategies
+<div align="left">
 
+**Autonomous Systems** | **Perception** | **RL for Humanoid Locomotion** | **Real-time SLAM & Visual Localization** | **Edge AI Optimization** 
 
-<h2 style="font-family: Georgia, serif; color: #E8674F; font-size: 28px;\">GitHub & Open Source</h2>
+</div>
+
+<h2 style="font-family: Georgia, serif; color: #E8674F; font-size: 28px;">GitHub Stats</h2>
 
 <div align="center">
 
@@ -101,7 +98,7 @@ Robotics Engineer specializing in real-time perception and embedded autonomy for
 
 </div>
 
-<h2 style="font-family: Georgia, serif; color: #E8674F; font-size: 28px;">Let's Connect! 🤝</h2>
+<h2 style="font-family: Georgia, serif; color: #E8674F; font-size: 28px;">Let's Connect!</h2>
 
 I'm always interested in collaborating on robotics projects, AI research, and innovative tech solutions.
 
