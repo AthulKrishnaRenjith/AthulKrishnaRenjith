@@ -1,7 +1,8 @@
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Athul+Krishna+Renjith;Robotics+Engineer;AI+%2B+Perception+Systems;Welcome+👋" alt="Typing animation" />
+    Athul Krishna Renjith
   </h1>
+  <h3>Robotics Engineer | Perception Systems | AI & Deep Learning</h3>
   
   <p>
     <a href="https://linkedin.com/in/athul-krishna-renjith"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -87,13 +88,14 @@ System Design        █████████░░░░░░░░░ 70%
 
 ---
 
-## 📈 GitHub Stats
+## � GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AthulKrishnaRenjith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=00D9FF)
+[![GitHub followers](https://img.shields.io/github/followers/AthulKrishnaRenjith?style=social)](https://github.com/AthulKrishnaRenjith)
+[![GitHub stars](https://img.shields.io/github/stars/AthulKrishnaRenjith?style=social)](https://github.com/AthulKrishnaRenjith)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AthulKrishnaRenjith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=00D9FF)
+**[View My Repositories →](https://github.com/AthulKrishnaRenjith?tab=repositories)**
 
 </div>
 
