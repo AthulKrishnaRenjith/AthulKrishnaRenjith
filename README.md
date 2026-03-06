@@ -1,6 +1,6 @@
 <div align="center">
   
-  [![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=100&lines=Welcome+👋;I'm+Athul+Krishna+Renjith;Robotics+Engineer;Building+Intelligent+Perception+Systems)](https://github.com/AthulKrishnaRenjith)
+  [![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=E8674F&center=true&vCenter=true&width=800&height=100&lines=Welcome+👋;I'm+Athul+Krishna+Renjith;Robotics+Engineer;Building+Intelligent+Perception+Systems)](https://github.com/AthulKrishnaRenjith)
   
 
   
@@ -13,80 +13,54 @@
 
 ---
 
-## 🚀 About Me
+<h2 style="font-family: Georgia, serif; color: #E8674F; font-size: 28px;">About Me</h2>
 
-I'm a passionate **Robotics Engineer** specializing in building cutting-edge **Perception Systems** and **Kinematic Solutions**. With hands-on experience in computer vision, deep learning, and robotics middleware, I transform complex problems into elegant, functional systems.
+Robotics Engineer specializing in real-time perception and embedded autonomy for resource-constrained robotic platforms. I deliver measurable system-level improvements through deterministic latency optimization, performance profiling, and hardware integration.
 
-> *"Qui fortis est, liber est"*
+> *Qui fortis est, liber est*
 
 ---
 
-## 💻 Tech Stack
+<h2 style="font-family: Georgia, serif; color: #E8674F; font-size: 28px;">Core Skills</h2>
 
 <div align="center">
 
 | **Category** | **Technologies** |
 |:---:|:---:|
-| **Perception & AI** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
-| **Robotics** | ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white) ![Gazebo](https://img.shields.io/badge/Gazebo-FF6B35?style=flat-square&logoColor=white) |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
-| **Tools** | ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **Middleware & Ops** | ![ROS2](https://img.shields.io/badge/ROS2%20(Foxy%2FJazzy)-22314E?style=flat-square&logo=ros&logoColor=white) ![C++](https://img.shields.io/badge/Modern%20C%2B%2B%2017%2F20-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **Perception & SLAM** | ![ORB-SLAM3](https://img.shields.io/badge/ORB--SLAM3-00D9FF?style=flat-square) ![GraphSLAM](https://img.shields.io/badge/GraphSLAM-00D9FF?style=flat-square) ![LiDAR](https://img.shields.io/badge/LiDAR--Stereo%20Fusion-FF6B6B?style=flat-square) ![YOLOv5/v9](https://img.shields.io/badge/YOLOv5%2Fv9-00FFFF?style=flat-square) ![Point Cloud](https://img.shields.io/badge/Point%20Cloud%20Reg.-4CAF50?style=flat-square) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
+| **AI & Optimization** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![JAX](https://img.shields.io/badge/JAX-0078D4?style=flat-square) ![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white) ![OpenVINO](https://img.shields.io/badge/OpenVINO-0071C5?style=flat-square) ![Quantization](https://img.shields.io/badge/Quantization%2FPruning-FF6B6B?style=flat-square) ![DINOv3](https://img.shields.io/badge/DINOv3-FF6B6B?style=flat-square) |
+| **Control & Simulation** | ![PID](https://img.shields.io/badge/PID%20Control-FF9800?style=flat-square) ![Kinematics](https://img.shields.io/badge/Kinematics-FF9800?style=flat-square) ![PPO](https://img.shields.io/badge/PPO%20RL-7B68EE?style=flat-square) ![Gazebo](https://img.shields.io/badge/Gazebo-FF6B35?style=flat-square) ![Webots](https://img.shields.io/badge/Webots-34A853?style=flat-square) ![MuJoCo](https://img.shields.io/badge/MuJoCo-1E90FF?style=flat-square) ![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=flat-square) |
 
 </div>
 
 ---
 
-## 📊 Skills Overview
+<h2 style="font-family: Georgia, serif; color: #E8674F; font-size: 28px;">Key Achievements</h2>
 
-<div align="center">
-
-#### Perception & Computer Vision
-```
-Object Detection       ████████████████░░ 90%
-Deep Learning         ███████████████░░░ 85%
-Image Processing      ███████████████░░░ 88%
-Sensor Fusion         ██████████░░░░░░░░ 70%
-```
-
-#### Robotics & Control
-```
-ROS Development       █████████████░░░░░ 80%
-Kinematics            ███████████████░░░ 87%
-Motion Planning       ██████████░░░░░░░░ 70%
-Hardware Integration  ████████████░░░░░░ 75%
-```
-
-#### Software Engineering
-```
-Python               ███████████████░░░ 90%
-C++                  ██████████░░░░░░░░ 75%
-System Design        █████████░░░░░░░░░ 70%
-```
-
-</div>
+- **SLAM Optimization**: Reduced accumulated trajectory drift by 28% through dynamic feature filtering and structured benchmarking on maritime platforms
+- **Latency Reduction**: Achieved 37% end-to-end perception latency reduction via Nsight profiling and kernel optimization on Jetson AGX Orin
+- **Real-Time Inference**: Deployed 52 FPS YOLOv9 on Jetson AGX Orin using TensorRT FP16 optimization (92% precision, 86% mAP@0.5)
+- **Geo-Localization**: Built satellite image analysis model with 18% accuracy improvement via DINOv3 cross-view matching (85% top-1 accuracy)
+- **Precision Control**: Engineered PID-based motion control achieving 0.5mm repeatable positioning precision on multi-DOF robotic arms
+- **Field Validation**: Deployed full SLAM+navigation stack on autonomous surface vessel (ASV) with 67% mAP and sub-5cm drift in GNSS-denied conditions
+- **Robust Robotics**: Validated systems under dynamic conditions (rain, occlusion, motion blur, lighting variation) with targeted augmentation strategies
 
 ---
 
-## 🎯 Currently Learning
+<h2 style="font-family: Georgia, serif; color: #E8674F; font-size: 28px;">Featured Projects</h2>
 
-<div align="center">
+- **[MARVIS](https://github.com/AthulKrishnaRenjith)** – Real-Time Computer Vision System for Autonomous Maritime Localisation
 
-🔥 **PyTorch** Advanced Techniques → **ROS 2** Ecosystem → **TensorRT** Optimization
+- **[Humanoid Robot Perception](https://github.com/AthulKrishnaRenjith/stride-op3.git)**
 
-</div>
+- **[Real-Time Perception for Autonomous Racing](https://github.com/AthulKrishnaRenjith/UH-Racing-Yolov9-custom.git)**
 
----
-
-## 🏆 Highlights
-
-- ✨ Built perception pipelines for autonomous systems
-- 🎯 Optimized deep learning models for embedded robotics
-- 🔧 Developed real-time kinematic solvers with ROS
-- 📡 Integrated multi-sensor systems for robust perception
+- **[Osu Beatmap Generator](https://github.com/AthulKrishnaRenjith/Osu-Beatmap.git)**
 
 ---
 
-## � GitHub Activity
+<h2 style="font-family: Georgia, serif; color: #E8674F; font-size: 28px;\">GitHub & Open Source</h2>
 
 <div align="center">
 
@@ -99,13 +73,14 @@ System Design        █████████░░░░░░░░░ 70%
 
 ---
 
-## 🤝 Let's Connect!
+<h2 style="font-family: Georgia, serif; color: #E8674F; font-size: 28px;">Let's Connect! 🤝</h2>
 
 I'm always interested in collaborating on robotics projects, AI research, and innovative tech solutions.
 
 <div align="center">
 
-[**Connect on LinkedIn**](https://linkedin.com/in/athulkrishnarenjith) · 
+[**Connect on LinkedIn**](https://linkedin.com/in/athulkrishnarenjith/) · 
+[**Portfolio**](https://athul.arty.gg/) · 
 [**Explore My Projects**](https://github.com/AthulKrishnaRenjith?tab=repositories) · 
 [**Drop Me an Email**](mailto:renjith.athul.krishna@gmail.com)
 
@@ -115,8 +90,8 @@ I'm always interested in collaborating on robotics projects, AI research, and in
 
 <div align="center">
   
-  ### ⭐ If you found my work interesting, consider giving it a star!
+  ### If you found my work interesting, consider giving it a star ⭐!
   
-  <img src="https://komarev.com/ghpvc/?username=AthulKrishnaRenjith&label=Profile+Views&color=00D9FF&style=for-the-badge" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=AthulKrishnaRenjith&label=Profile+Views&color=E8674F&style=for-the-badge" alt="Profile views">
   
 </div>
