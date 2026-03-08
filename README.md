@@ -32,33 +32,10 @@ Robotics Engineer specializing in real-time perception and embedded autonomy for
 
 <h2 style="font-family: Georgia, serif; color: #E8674F; font-size: 28px;">Featured Projects</h2>
 
-<div align="center" style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 24px auto; max-width: 800px;">
-
-<div style="border: 2px solid #E8674F; border-radius: 10px; padding: 24px 16px; text-align: center; background-color: rgba(232, 103, 79, 0.05); min-height: 90px; display: flex; align-items: center; justify-content: center;">
-
-### [MARVIS](https://github.com/AthulKrishnaRenjith)
-
-</div>
-
-<div style="border: 2px solid #E8674F; border-radius: 10px; padding: 24px 16px; text-align: center; background-color: rgba(232, 103, 79, 0.05); min-height: 90px; display: flex; align-items: center; justify-content: center;">
-
-### [Humanoid Perception](https://github.com/AthulKrishnaRenjith/stride-op3.git)
-
-</div>
-
-<div style="border: 2px solid #E8674F; border-radius: 10px; padding: 24px 16px; text-align: center; background-color: rgba(232, 103, 79, 0.05); min-height: 90px; display: flex; align-items: center; justify-content: center;">
-
-### [Autonomous Racing](https://github.com/AthulKrishnaRenjith/UH-Racing-Yolov9-custom.git)
-
-</div>
-
-<div style="border: 2px solid #E8674F; border-radius: 10px; padding: 24px 16px; text-align: center; background-color: rgba(232, 103, 79, 0.05); min-height: 90px; display: flex; align-items: center; justify-content: center;">
-
-### [Beatmap Generator](https://github.com/AthulKrishnaRenjith/Osu-Beatmap.git)
-
-</div>
-
-</div>
+| | |
+|---|---|
+| **[MARVIS](https://github.com/AthulKrishnaRenjith)** <br><sub>Mobile Autonomous Robot Perception System</sub> | **[Humanoid Perception](https://github.com/AthulKrishnaRenjith/stride-op3.git)** <br><sub>Real-time Vision System for Bipedal Robots</sub> |
+| **[Autonomous Racing](https://github.com/AthulKrishnaRenjith/UH-Racing-Yolov9-custom.git)** <br><sub>YOLOv9-based Vehicle Detection & Tracking</sub> | **[Beatmap Generator](https://github.com/AthulKrishnaRenjith/Osu-Beatmap.git)** <br><sub>Audio-driven Music Pattern Generation</sub> |
 
 <h2 style="font-family: Georgia, serif; color: #E8674F; font-size: 28px;">Focus Areas</h2>
 
