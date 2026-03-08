@@ -49,8 +49,8 @@ Robotics Engineer specializing in real-time perception and embedded autonomy for
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/AthulKrishnaRenjith?style=social)](https://github.com/AthulKrishnaRenjith)
-[![GitHub stars](https://img.shields.io/github/stars/AthulKrishnaRenjith?style=social)](https://github.com/AthulKrishnaRenjith)
+[![GitHub followers](https://img.shields.io/github/followers/AthulKrishnaRenjith?style=flat-square&logo=github&logoColor=white&color=E8674F)](https://github.com/AthulKrishnaRenjith)
+[![GitHub stars](https://img.shields.io/github/stars/AthulKrishnaRenjith?style=flat-square&logo=github&logoColor=white&color=E8674F)](https://github.com/AthulKrishnaRenjith)
 
 **[View My Repositories →](https://github.com/AthulKrishnaRenjith?tab=repositories)**
 
