@@ -43,7 +43,7 @@ Robotics Engineer specializing in real-time perception and embedded autonomy for
 |---|---|
 | **Autonomous Systems** <br><sub>Fleet deployment with real-world validation</sub> | **Perception** <br><sub>Sub-30ms latency pipelines for real-time processing</sub> |
 | **RL Locomotion** <br><sub>Dynamic humanoid gait generation and control</sub> | **SLAM** <br><sub>Robust loop closure and real-time mapping</sub> |
-| **Edge AI** <br><sub>Inference speedup through quantization</sub> | |
+| **Edge AI** <br><sub>Inference speedup through quantization</sub> |
 
 <h2 style="font-family: Georgia, serif; color: #E8674F; font-size: 28px;">GitHub Stats</h2>
 
