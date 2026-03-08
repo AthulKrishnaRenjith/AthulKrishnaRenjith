@@ -39,39 +39,11 @@ Robotics Engineer specializing in real-time perception and embedded autonomy for
 
 <h2 style="font-family: Georgia, serif; color: #E8674F; font-size: 28px;">Focus Areas</h2>
 
-<div align="center" style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 12px; margin: 24px auto; max-width: 900px;">
-
-<div style="padding: 12px 8px;">
-
-![Autonomous Systems](https://img.shields.io/badge/Autonomous%20Systems-E8674F?style=for-the-badge)
-
-</div>
-
-<div style="padding: 12px 8px;">
-
-![Perception](https://img.shields.io/badge/Perception-E8674F?style=for-the-badge)
-
-</div>
-
-<div style="padding: 12px 8px;">
-
-![RL Locomotion](https://img.shields.io/badge/RL%20for%20Humanoids-E8674F?style=for-the-badge)
-
-</div>
-
-<div style="padding: 12px 8px;">
-
-![SLAM](https://img.shields.io/badge/SLAM-E8674F?style=for-the-badge)
-
-</div>
-
-<div style="padding: 12px 8px;">
-
-![Edge AI Optimisation](https://img.shields.io/badge/Edge%20AI%20Optimisation-E8674F?style=for-the-badge)
-
-</div>
-
-</div>
+| | |
+|---|---|
+| **Autonomous Systems** <br><sub>Multi-platform deployment with real-world validation</sub> | **Perception** <br><sub>Sub-30ms latency pipelines for real-time processing</sub> |
+| **RL Locomotion** <br><sub>Dynamic humanoid gait generation and control</sub> | **SLAM** <br><sub>Robust loop closure and real-time mapping</sub> |
+| **Edge AI** <br><sub>2x+ inference speedup through quantization</sub> | |
 
 <h2 style="font-family: Georgia, serif; color: #E8674F; font-size: 28px;">GitHub Stats</h2>
 
