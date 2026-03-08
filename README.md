@@ -34,16 +34,16 @@ Robotics Engineer specializing in real-time perception and embedded autonomy for
 
 | | |
 |---|---|
-| **[MARVIS](https://github.com/AthulKrishnaRenjith)** <br><sub>Mobile Autonomous Robot Perception System</sub> | **[Humanoid Perception](https://github.com/AthulKrishnaRenjith/stride-op3.git)** <br><sub>Real-time Vision System for Bipedal Robots</sub> |
-| **[Autonomous Racing](https://github.com/AthulKrishnaRenjith/UH-Racing-Yolov9-custom.git)** <br><sub>YOLOv9-based Vehicle Detection & Tracking</sub> | **[Beatmap Generator](https://github.com/AthulKrishnaRenjith/Osu-Beatmap.git)** <br><sub>Audio-driven Music Pattern Generation</sub> |
+| **[MARVIS](https://github.com/AthulKrishnaRenjith)** <br><sub>ASV Perception and Localisation System</sub> | **[Humanoid Perception](https://github.com/AthulKrishnaRenjith/stride-op3.git)** <br><sub>Real-time Vision System for Bipedal Robots</sub> |
+| **[Autonomous Racing](https://github.com/AthulKrishnaRenjith/UH-Racing-Yolov9-custom.git)** <br><sub>YOLOv9-based Cone Detection & Tracking</sub> | **[Beatmap Generator](https://github.com/AthulKrishnaRenjith/Osu-Beatmap.git)** <br><sub>Audio-driven Music Pattern Generation</sub> |
 
 <h2 style="font-family: Georgia, serif; color: #E8674F; font-size: 28px;">Focus Areas</h2>
 
 | | |
 |---|---|
-| **Autonomous Systems** <br><sub>Multi-platform deployment with real-world validation</sub> | **Perception** <br><sub>Sub-30ms latency pipelines for real-time processing</sub> |
+| **Autonomous Systems** <br><sub>Fleet deployment with real-world validation</sub> | **Perception** <br><sub>Sub-30ms latency pipelines for real-time processing</sub> |
 | **RL Locomotion** <br><sub>Dynamic humanoid gait generation and control</sub> | **SLAM** <br><sub>Robust loop closure and real-time mapping</sub> |
-| **Edge AI** <br><sub>2x+ inference speedup through quantization</sub> | |
+| **Edge AI** <br><sub>Inference speedup through quantization</sub> | |
 
 <h2 style="font-family: Georgia, serif; color: #E8674F; font-size: 28px;">GitHub Stats</h2>
 
