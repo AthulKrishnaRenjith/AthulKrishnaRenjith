@@ -32,11 +32,7 @@ Robotics Engineer specializing in real-time perception and embedded autonomy for
 
 <h2 style="font-family: Georgia, serif; color: #E8674F; font-size: 28px;">Featured Projects</h2>
 
-<div align="center">
-
-<table style="width: 100%; border-collapse: collapse; margin: 20px 0; border: none;">
-<tr style="border: none;">
-<td style="width: 50%; padding: 10px; border: none;">
+<div align="center" style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 20px 0;">
 
 <div style="border: 2px solid #E8674F; border-radius: 8px; padding: 15px 10px; text-align: center; background-color: rgba(232, 103, 79, 0.05); min-height: 60px; display: flex; align-items: center; justify-content: center;">
 
@@ -44,21 +40,11 @@ Robotics Engineer specializing in real-time perception and embedded autonomy for
 
 </div>
 
-</td>
-</tr>
-<tr style="border: none;">
-<td style="width: 50%; padding: 10px; border: none;">
-
 <div style="border: 2px solid #E8674F; border-radius: 8px; padding: 15px 10px; text-align: center; background-color: rgba(232, 103, 79, 0.05); min-height: 60px; display: flex; align-items: center; justify-content: center;">
 
 ### [Humanoid Perception](https://github.com/AthulKrishnaRenjith/stride-op3.git)
 
 </div>
-
-</td>
-</tr>
-<tr>
-<td style="width: 50%; padding: 10px; border: none;">
 
 <div style="border: 2px solid #E8674F; border-radius: 8px; padding: 15px 10px; text-align: center; background-color: rgba(232, 103, 79, 0.05); min-height: 60px; display: flex; align-items: center; justify-content: center;">
 
@@ -66,63 +52,47 @@ Robotics Engineer specializing in real-time perception and embedded autonomy for
 
 </div>
 
-</td>
-</tr>
-<tr style="border: none;">
-<td style="width: 50%; padding: 10px; border: none;">
-
 <div style="border: 2px solid #E8674F; border-radius: 8px; padding: 15px 10px; text-align: center; background-color: rgba(232, 103, 79, 0.05); min-height: 60px; display: flex; align-items: center; justify-content: center;">
 
 ### [Beatmap Generator](https://github.com/AthulKrishnaRenjith/Osu-Beatmap.git)
 
 </div>
 
-</td>
-</tr>
-</table>
-
 </div>
 
 <h2 style="font-family: Georgia, serif; color: #E8674F; font-size: 28px;">Focus Areas</h2>
 
-<div align="center">
+<div align="center" style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 20px 0;">
 
-<table style="width: 100%; border-collapse: collapse; margin: 20px 0; border: none;">
-<tr style="border: none;">
-<td style="width: 50%; padding: 15px; vertical-align: top; border: none;">
+<div style="padding: 15px; vertical-align: top;">
 
 ![Autonomous Systems](https://img.shields.io/badge/Autonomous%20Systems-E8674F?style=for-the-badge)
 
-</td>
-<td style="width: 50%; padding: 15px; vertical-align: top; border: none;">
+</div>
+
+<div style="padding: 15px; vertical-align: top;">
 
 ![Perception](https://img.shields.io/badge/Perception-E8674F?style=for-the-badge)
 
-</td>
-</tr>
-<tr style="border: none;">
-<td style="width: 50%; padding: 15px; vertical-align: top; border: none;">
+</div>
+
+<div style="padding: 15px; vertical-align: top;">
 
 ![RL Locomotion](https://img.shields.io/badge/RL%20for%20Humanoids-E8674F?style=for-the-badge)
 
-</td>
-<td style="width: 50%; padding: 15px; vertical-align: top; border: none;">
+</div>
+
+<div style="padding: 15px; vertical-align: top;">
 
 ![SLAM](https://img.shields.io/badge/SLAM-E8674F?style=for-the-badge)
 
-</td>
-</tr>
-<tr style="border: none;">
-<td style="width: 50%; padding: 15px; vertical-align: top; border: none;">
+</div>
+
+<div style="padding: 15px; vertical-align: top;">
 
 ![Edge AI Optimisation](https://img.shields.io/badge/Edge%20AI%20Optimisation-E8674F?style=for-the-badge)
 
-</td>
-<td style="width: 50%; padding: 15px; vertical-align: top; border: none;">
-
-</td>
-</tr>
-</table>
+</div>
 
 </div>
 
