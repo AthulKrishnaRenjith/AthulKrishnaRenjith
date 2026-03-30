@@ -35,7 +35,7 @@ Robotics Engineer specializing in real-time perception and embedded autonomy for
 | | |
 |---|---|
 | **[MARVIS](https://github.com/AthulKrishnaRenjith)** <br><sub>ASV Perception and Localisation System</sub> | **[Humanoid Perception](https://github.com/AthulKrishnaRenjith/stride-op3.git)** <br><sub>Real-time Vision System for Bipedal Robots</sub> |
-| **[Autonomous Racing](https://github.com/AthulKrishnaRenjith/UH-Racing-Yolov9-custom.git)** <br><sub>YOLOv9-based Cone Detection & Tracking</sub> | **[Beatmap Generator](https://github.com/AthulKrishnaRenjith/Osu-Beatmap.git)** <br><sub>Audio-driven Music Pattern Generation</sub> |
+| **[Autonomous Racing](https://github.com/AthulKrishnaRenjith/UH-Racing-Yolov9-custom.git)** <br><sub>YOLOv9-based Cone Detection & Tracking</sub> | **[Humanoid Locomotion](https://github.com/AthulKrishnaRenjith/mujoco.git)** <br><sub>Learning-Based Locomotion for Humanoid Robot</sub> |
 
 <h2 style="font-family: Georgia, serif; color: #E8674F; font-size: 28px;">Focus Areas</h2>
 
