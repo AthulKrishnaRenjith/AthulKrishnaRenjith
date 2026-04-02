@@ -58,7 +58,7 @@ Robotics Engineer specializing in real-time perception and embedded autonomy for
 
 <h2 style="font-family: Georgia, serif; color: #E8674F; font-size: 28px;">Let's Connect!</h2>
 
-I'm always interested in collaborating on robotics projects, AI research, and innovative tech solutions.
+I'm interested in collaborating on robotics projects, AI research, and innovative tech solutions.
 
 <div align="center">
 
