@@ -13,7 +13,7 @@
 
 <h2 style="font-family: Georgia, serif; color: #E8674F; font-size: 28px;">About Me</h2>
 
-Robotics Engineer specializing in real-time perception and embedded autonomy for resource-constrained robotic platforms. I deliver measurable system-level improvements through deterministic latency optimization, performance profiling, and hardware integration. My work focuses on turning perception, kinematics and SLAM research into production ready systems where latency, throughput, and reliability are non-negotiable.
+I am a Robotics Engineer specialising in real-time perception, SLAM and embedded autonomy for resource-constrained, safety-critical platforms. I deliver measurable system-level improvements through deterministic latency optimisations, performance profiling, and hardware integration. My work focuses on turning perception, kinematics and SLAM research into production ready systems where latency, throughput, and reliability are non-negotiable.
 
 > *Qui fortis est, liber est*
 
