@@ -62,7 +62,6 @@ I am a Robotics Engineer specialising in real-time perception, SLAM and embedded
 
 [**Connect on LinkedIn**](https://linkedin.com/in/athulkrishnarenjith/) · 
 [**Portfolio**](https://athul.arty.gg/) · 
-[**Explore My Projects**](https://github.com/AthulKrishnaRenjith?tab=repositories) · 
 [**Drop Me an Email**](mailto:renjith.athul.krishna@gmail.com)
 
 </div>
